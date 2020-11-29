@@ -1,0 +1,8 @@
+{
+    name = "multiuser",
+    description = "Normal Boot",
+    prerun = {
+        "early"
+    },
+    requires = {},
+}

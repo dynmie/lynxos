@@ -1,0 +1,11 @@
+print("Welcome to " .. kernel.version())
+print()
+print(" * Documentation: /usr/share/docs")
+print(" * APIS: /lib")
+print(" * Support: /man")
+print()
+print("The programs included with the Lynx system are free software;")
+print("the exact distribution terms for each program are described in the individual files in /usr/bin.")
+
+print("Lynx comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.")
+print()
